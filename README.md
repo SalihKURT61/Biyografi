@@ -1,2 +1,0 @@
-# Biyografi
-Salih KURT Kimdir
